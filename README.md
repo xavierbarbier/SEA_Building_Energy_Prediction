@@ -15,6 +15,9 @@ This is a dataset hosted by the City of Seattle. The city has an open data platf
 
 * https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy
 
+## Slides (in French)
+https://github.com/xavierbarbier/SEA_Building_Energy_Prediction/blob/main/P%C3%A9lec_presentation.pdf
+
 ## Cleaning notebook
 https://github.com/xavierbarbier/SEA_Building_Energy_Prediction/blob/main/P%C3%A9lec_01_cleaning.ipynb
 
